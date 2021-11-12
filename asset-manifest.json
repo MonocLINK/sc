@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/senior-capstone/static/css/main.4542b459.chunk.css",
+    "main.js": "/senior-capstone/static/js/main.7192e916.chunk.js",
+    "main.js.map": "/senior-capstone/static/js/main.7192e916.chunk.js.map",
+    "runtime-main.js": "/senior-capstone/static/js/runtime-main.018d210f.js",
+    "runtime-main.js.map": "/senior-capstone/static/js/runtime-main.018d210f.js.map",
+    "static/js/2.f2080a1e.chunk.js": "/senior-capstone/static/js/2.f2080a1e.chunk.js",
+    "static/js/2.f2080a1e.chunk.js.map": "/senior-capstone/static/js/2.f2080a1e.chunk.js.map",
+    "static/js/3.6cb2832f.chunk.js": "/senior-capstone/static/js/3.6cb2832f.chunk.js",
+    "static/js/3.6cb2832f.chunk.js.map": "/senior-capstone/static/js/3.6cb2832f.chunk.js.map",
+    "index.html": "/senior-capstone/index.html",
+    "static/css/main.4542b459.chunk.css.map": "/senior-capstone/static/css/main.4542b459.chunk.css.map",
+    "static/js/2.f2080a1e.chunk.js.LICENSE.txt": "/senior-capstone/static/js/2.f2080a1e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/senior-capstone/static/media/bg.606c9974.jpg",
+    "static/media/res.61ee6cda.jpg": "/senior-capstone/static/media/res.61ee6cda.jpg",
+    "static/media/self.d07b2331.jpeg": "/senior-capstone/static/media/self.d07b2331.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018d210f.js",
+    "static/js/2.f2080a1e.chunk.js",
+    "static/css/main.4542b459.chunk.css",
+    "static/js/main.7192e916.chunk.js"
+  ]
+}

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Routes,
     Route
   } from 'react-router-dom';
@@ -22,7 +22,7 @@ const Navbar = () => {
             </StyledNav>
 
             <Routes>
-                <Route path="/" element={
+                <Route exact path="/" element={
                     <Home />
                 }>
                 </Route>
@@ -35,7 +35,6 @@ const Navbar = () => {
                 }>
                 </Route>
             </Routes>
-        
         </Router>
     )
     
